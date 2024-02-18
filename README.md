@@ -1,2 +1,2 @@
-# K-t-phaneOtomasyonProjesi.Ntp
+# KutuphaneOtomasyonProjesi.Ntp
 okul projem
